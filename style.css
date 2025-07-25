@@ -29,8 +29,9 @@ header {
 }
 
 .logo-title {
-	cursor: pointer;
-	transition: all .5s ease 0s;
+	font-family: 'Metal Mania', cursive;
+	color: #d4d4d4;
+	text-shadow: 1px 1px 3px #888;
 }
 
 .logo:hover {
