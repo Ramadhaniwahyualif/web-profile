@@ -113,6 +113,7 @@ nav a:hover {
 	background: #3498DB;
 	color: #eaeaea;
 	padding: 40px;
+	justify-content: center;
 	text-align: center;
 	width: 100%;
 }
