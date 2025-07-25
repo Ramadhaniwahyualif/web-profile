@@ -148,6 +148,16 @@ a {
 	box-shadow: 2px 5px 5px 1px rgba(0,0,0,0.5);
 }
 
+.card-itemCerita {
+	text-align: center;
+	width: 45%;
+	min-height: 150px;
+	background: #f7f7f7;
+	color: #222;
+	padding: 24px;
+	box-shadow: 2px 5px 5px 1px rgba(0,0,0,0.5);
+}
+
 .card-title {
 	font-size: 18px;
 	font-weight: bolder;
